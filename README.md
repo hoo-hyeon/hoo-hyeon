@@ -14,12 +14,7 @@
 
 <br/>
 
-[![Naver Blog](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/hooj1027)
-
-<br/>
-
 ──────────────────────────────────────────────────────────────
-
 <br/>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -46,7 +41,11 @@
 *interested in · information security consulting · ISMS-P*
 
 ──────────────────────────────────────────────────────────────
+
 <br/>
 
+[![Naver Blog](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/hooj1027)
+
+<br/>
 
 </div>
