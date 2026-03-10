@@ -1,29 +1,28 @@
-
 <div align="center">
 
-―――――――――――――――――――――――――――――――――――――――――――
+<br/>
 
 *learning, always.*
 
-―――――――――――――――――――――――――――――――――――――――――――
+<br/>
 
-</div>
+---
 
 <br/>
 
-```
-  interested in  ── information security consulting / penetration testing / ISMS-P
-  currently      ── penetration tester / security consultant
-  contact        ── hooj1027@naver.com
-```
+`penetration tester` `security consultant`
 
 <br/>
 
-<div align="center">
+📬 hooj1027@naver.com &nbsp;|&nbsp; [![Naver Blog](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/hooj1027)
 
-### S T A C K
+<br/>
 
-<h4>Security / Infra</h4>
+---
+
+<br/>
+
+### 🛡️ Security / Infra
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
@@ -31,11 +30,15 @@
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<h4>Network</h4>
+<br/>
+
+### 🌐 Network
 
 ![Network](https://img.shields.io/badge/Network-00897B?style=flat-square&logo=cisco&logoColor=white)
 
-<h4>Dev</h4>
+<br/>
+
+### 💻 Dev
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -48,12 +51,10 @@
 
 <br/>
 
-### B L O G
+---
 
-[![Naver Blog](https://img.shields.io/badge/Naver_Blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/hooj1027)
+*interested in · information security consulting · ISMS-P*
 
 <br/>
-
-―――――――――――――――――――――――――――――――――――――――――――
 
 </div>
