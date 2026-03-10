@@ -32,7 +32,10 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+[![Naver Blog](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/hooj1027)
+
 
 <br/>
 
@@ -41,10 +44,6 @@
 *interested in · information security consulting · ISMS-P*
 
 ──────────────────────────────────────────────────────────────
-
-<br/>
-
-[![Naver Blog](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/hooj1027)
 
 <br/>
 
