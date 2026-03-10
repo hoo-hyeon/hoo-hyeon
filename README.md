@@ -2,9 +2,9 @@
 
 <br/>
 
-*learning, always.*
+---
 
-<br/>
+*learning, always.*
 
 ---
 
@@ -15,8 +15,6 @@
 <br/>
 
 [![Naver Blog](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/hooj1027)
-&nbsp;
-[![Email](https://img.shields.io/badge/hooj1027@naver.com-gray?style=flat-square&logo=gmail&logoColor=white)](mailto:hooj1027@naver.com)
 
 <br/>
 
