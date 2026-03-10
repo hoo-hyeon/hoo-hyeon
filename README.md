@@ -3,9 +3,7 @@
 <br/>
 
 ---
-
 *learning, always.*
-
 ---
 
 <br/>
