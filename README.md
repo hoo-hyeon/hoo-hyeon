@@ -33,7 +33,7 @@
   S T A C K
 ```
 
-**Security / Infra**
+<h4>Security / Infra</h4>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
@@ -41,11 +41,11 @@
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Network**
+<h4>Network</h4>
 
 ![Network](https://img.shields.io/badge/Network-00897B?style=flat-square&logo=cisco&logoColor=white)
 
-**Dev**
+<h4>Dev</h4>
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
