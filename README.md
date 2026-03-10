@@ -20,7 +20,7 @@
 <br/>
 
 ```
-  interested in  ── network / server / security
+  interested in  ── information security consulting / penetration testing / ISMS-P 
   currently      ── learning, always
   contact        ── hooj1027@naver.com
 ```
